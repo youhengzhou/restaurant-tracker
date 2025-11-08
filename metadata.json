@@ -1,0 +1,5 @@
+{
+  "name": "Restaurant Tracker",
+  "description": "A simple and elegant application to track your favorite restaurants, their menus, prices, and photos. Easily add and view restaurant details in a clean card-based interface.",
+  "requestFramePermissions": []
+}
